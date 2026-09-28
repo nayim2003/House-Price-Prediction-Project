@@ -39,11 +39,11 @@ An end-to-end machine learning regression project that predicts residential home
 ```
 ├── Data/
 |   |── Raw/
-|   |  |── AmesHousing.csv    
+|   |   |── AmesHousing.csv    
 |   |── Processed/
-|      |── Processed_data.csv
+|       |── Processed_data.csv
 |── Notebook/
-|  |──  house_price_prediction.ipynb    # Full analysis notebook (EDA → modeling → evaluation)
+|   |──  house_price_prediction.ipynb    # Full analysis notebook (EDA → modeling → evaluation)
 ├── reports/
 │   ├── House_Price_Prediction_Report.docx
 │   └── House_Price_Prediction_Report.pdf
