@@ -37,10 +37,18 @@ An end-to-end machine learning regression project that predicts residential home
 ## 📁 Repository Structure
 
 ```
-├── house_price_prediction.ipynb     # Full analysis notebook (EDA → modeling → evaluation)
+├── Data/
+|   |── Raw/
+|   |  |── AmesHousing.csv    
+|   |── Processed/
+|      |── Processed_data.csv
+|── Notebook/
+|  |──  house_price_prediction.ipynb    # Full analysis notebook (EDA → modeling → evaluation)
 ├── reports/
 │   ├── House_Price_Prediction_Report.docx
 │   └── House_Price_Prediction_Report.pdf
+|── Model/
+|   |── ames_price_model.pkl
 ├── README.md
 └── .gitignore
 ```
