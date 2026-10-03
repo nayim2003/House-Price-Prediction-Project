@@ -70,3 +70,8 @@ See [`reports/House_Price_Prediction_Report.pdf`](reports/House_Price_Prediction
 - Try LightGBM / CatBoost
 - Stacking/blending ensembles
 - SHAP-based explainability analysis
+
+-----------------
+# ***Md. Nayim Howlader***
+## ***BSc (Honours), Statistics,***
+## ***Dhaka College, Dhaka***
